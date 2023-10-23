@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+
+p{
+  
+  font-size: 35px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+
+}
+
+h1{
+  font-size: 40px;
+  background-color: rgb(235, 58, 58);
+
+}
+
+UI {
+
+  display: flex;
+ 
+ }
+
+a{
+
+  color: #fff;
+  font-size: 30px;
+  text-decoration: none;
+  background-color: #d34439;
+  display: block;
+  padding: 15px 25px;
+  border-radius: 10px;
+  font-weight: bold;
+  width: 300px;
+  text-align: center;
+  margin: 110 auto 0;
+  letter-spacing: 3px;
+
+}
+
+
+ table {
+
+width: 350px;
+height: 150px;
+font-size: 30px;
+background-color: #fff;
+
+}
